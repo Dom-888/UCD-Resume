@@ -6,6 +6,10 @@
     background-color: #fff;
 }
 
+.personal-info-item {
+    background-color: #f4f4f4;
+}
+
 .bg-color-name-title {
     background-color: #676767;
 }
@@ -210,3 +214,16 @@ footer {
 .footer-details {
     padding: 20px;
 }
+
+/*--------------------------------------------Icons*/
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading {
+     margin-bottom: 15px;
+}
+
+
